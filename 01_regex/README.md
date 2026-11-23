@@ -14,7 +14,7 @@ Use `grep -E` for regex search
 ```bash
 # always use single quote
 grep -E 'root' passwd
-
+```
 
 ### Regex special characters
 
@@ -39,8 +39,6 @@ grep -E '[^0-9]' passwd
 
 # `^[0-9]` -> When `^` is outside square brackets `[]`, it means the beginning of a line. Matches lines that START with a number between 0 and 9.
 grep -E '^[0-9]' passwd
-
-```
 
 ### /etc
 
