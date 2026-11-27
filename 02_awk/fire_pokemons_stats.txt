@@ -1,0 +1,77 @@
+====== FIRE pokemons report
+4 Charmander 52
+5 Charmeleon 64
+6 Charizard 84
+6 Charizard Mega Charizard X 130
+6 Charizard Mega Charizard Y 104
+37 Vulpix 41
+38 Ninetales 76
+58 Growlithe 70
+58 Growlithe Hisuian Growlithe 75
+59 Arcanine 110
+59 Arcanine Hisuian Arcanine 115
+77 Ponyta 85
+78 Rapidash 100
+105 Marowak Alolan Marowak 80
+126 Magmar 95
+136 Flareon 130
+146 Moltres 100
+155 Cyndaquil 52
+156 Quilava 64
+157 Typhlosion 84
+157 Typhlosion Hisuian Typhlosion 84
+218 Slugma 40
+219 Magcargo 50
+240 Magby 75
+244 Entei 115
+250 Ho-oh 130
+255 Torchic 60
+256 Combusken 85
+257 Blaziken 120
+257 Blaziken Mega Blaziken 160
+322 Numel 60
+323 Camerupt 100
+323 Camerupt Mega Camerupt 120
+324 Torkoal 85
+351 Castform Sunny Form 70
+390 Chimchar 58
+391 Monferno 78
+392 Infernape 104
+467 Magmortar 95
+485 Heatran 90
+498 Tepig 63
+499 Pignite 93
+500 Emboar 123
+513 Pansear 53
+514 Simisear 98
+554 Darumaka 90
+555 Darmanitan Standard Mode 140
+555 Darmanitan Zen Mode 30
+631 Heatmor 97
+653 Fennekin 45
+654 Braixen 59
+655 Delphox 69
+662 Fletchinder 73
+663 Talonflame 81
+667 Litleo 50
+668 Pyroar 68
+721 Volcanion 110
+725 Litten 65
+726 Torracat 85
+727 Incineroar 115
+741 Oricorio Baile Style 70
+776 Turtonator 78
+806 Blacephalon 127
+813 Scorbunny 71
+814 Raboot 86
+815 Cinderace 116
+850 Sizzlipede 65
+851 Centiskorch 115
+909 Fuecoco 45
+910 Crocalor 55
+911 Skeledirge 75
+935 Charcadet 50
+936 Armarouge 60
+937 Ceruledge 125
+994 Iron Moth 70
+Count: 75, avg attack: 84.1
